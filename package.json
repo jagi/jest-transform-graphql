@@ -1,0 +1,22 @@
+{
+  "name": "@jagi/jest-transform-graphql",
+  "version": "1.0.0",
+  "description": "Jest transformer for the GraphQL files",
+  "main": "index.js",
+  "author": "Łukasz Jagodziński",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagi/jest-transform-graphql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jagi/jest-transform-graphql/issues"
+  },
+  "homepage": "https://github.com/jagi/jest-transform-graphql#readme",
+  "peerDependencies": {
+    "graphql-tag": "^2.10.0"
+  },
+  "keywords": [
+    "jest",
+    "graphql"
+  ]
+}
