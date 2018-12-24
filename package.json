@@ -4,6 +4,7 @@
   "description": "Jest transformer for the GraphQL files",
   "main": "index.js",
   "author": "Łukasz Jagodziński",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jagi/jest-transform-graphql.git"
