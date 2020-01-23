@@ -27,7 +27,7 @@ Or in your `jest.config.js` file:
 ```js
 module.exports = {
   transform: {
-    "^\\.(gql|graphql)$": "@jagi/jest-transform-graphql"
+    "\\.(gql|graphql)$": "@jagi/jest-transform-graphql"
     /* ... */
   }
   /* ... */
